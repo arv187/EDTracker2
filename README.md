@@ -1,4 +1,4 @@
-Fork de brumster/EDTracker2, vídeo propio en el enlace de youtube: [https://youtu.be/6COPdxhI2VE](https://youtu.be/6COPdxhI2VE)
+Fork de brumster/EDTracker2, vídeo propio en el enlace de youtube: [https://youtu.be/vdz2QSaxw2E](https://youtu.be/vdz2QSaxw2E)
 
 ---
 
